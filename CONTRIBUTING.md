@@ -6,7 +6,7 @@ Thank you for your interest in contributing! 🎉
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/Qyroxen/Access-Control-Manager.git
+git clone https://github.com/AetherCodeHQ/Access-Control-Manager.git
 cd Access-Control-Manager
 ```
 
